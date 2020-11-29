@@ -1,4 +1,10 @@
-const inquirer = require("inquirer");
-const fs = require("fs");
-const questions = require("./questions");
-const makeMD = require("./makeMD")
+const {prompt} = require("inquirer");
+const {writeFile} = require("fs");
+const questions = require("./utils/questions");
+const makeMD = require("./utils/makeMD");
+
+prompt(questions).then((user) => 
+    writeFile("userREADME.md", makeMD(user), () => 
+    console.log("README Generated!")
+    )
+);
