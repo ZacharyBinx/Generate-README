@@ -9,26 +9,26 @@ asdf
 
 ## Install
 
-asdfs
+asdf
 
 ## Usage
 
-dfa
+asdf
 
 ## Contribute?
 
-sfasd
+asdf
 
 ## Test
 
-fsa
+sadf
 
 ## License
 
-This application is covered under dfasd.
+This application is covered under MIT License.
 
 ## Questions
 
-For more content, check out my ![GitHub](fsa)!
+For more content, check out my ![GitHub](sad)!
 
-Any questions regarding this project can be sent to dfasdf and I will respond as soon as reasonably possible.
+Any questions regarding this project can be sent to adfsg and I will respond as soon as reasonably possible.

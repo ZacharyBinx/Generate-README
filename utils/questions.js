@@ -30,9 +30,18 @@ module.exports = [
     message: 'How can a user test your application?',
 },
 {
-    type: 'input',
+    type: 'checkbox',
     name: 'license',
-    message: 'Which license is this application covered under?',
+    message: 'Which license is this application covered under?', 
+    choices: [
+        {title: 'MIT', value: 'MIT License'},
+        {title: 'Apache', value: 'Apache License'},
+        {title: 'GPL', value: 'GNU General Public License'},
+        {title: 'MPL', value: 'Mozilla Public License'},
+        {title: 'LGPL', value: 'GNU Lesser General Public License'},
+        {title: 'BSD (3-Clause)', value: 'BSD 3-Clause License'},
+    ],
+    hint:'',
 },
 {
     type: 'input',

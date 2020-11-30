@@ -28,7 +28,7 @@ ${install}
 
 ${usage}
 
-## Contribute?
+## Contribute
 
 ${contribute}
 
