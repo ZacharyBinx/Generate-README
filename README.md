@@ -29,7 +29,13 @@ Any other information you think should be included in a README has a place here.
 
 By following the instructions laid out in Usage, you can see for yourself! No unit testing has been created for this project as of yet. Here is a nifty example of what it looks like:
 
+![](demo1.gif)
 
+## Look!
+
+A cleaned up look at what we created:
+
+![](demo2.gif)
 
 ## Questions
 
